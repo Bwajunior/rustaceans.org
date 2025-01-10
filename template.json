@@ -8,19 +8,19 @@
 // those not listed here will be ingnored.
 
 {
-    "name": "",
+    "name": "", Carlos Valenzuela 
     "irc": "",
     // e.g., ["rust", "rust-gamedev"]
     "irc_channels": [],
     // Show your GitHub avatar.
     "show_avatar": false,
     // Feel free to obfuscate your email address.
-    "email": "",
+    "email": "", hardknockxxx.general.labor@gmail.com
     "discourse": "",
     "reddit": "",
     "twitter": "",
     "blog": "",
-    "website": "",
+    "website": "",hardknockxxx.net
     // Notes about you; markdown.
     "notes": ""
 }
